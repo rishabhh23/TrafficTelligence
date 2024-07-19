@@ -13,3 +13,8 @@ Scenario 3: Commuter Guidance and Navigation
 Individual commuters and navigation apps can benefit from TrafficTelligence's accurate traffic volume estimations. Commuters can plan their routes intelligently, avoiding congested areas and selecting optimal travel times based on predicted traffic conditions. Navigation apps can provide real-time updates and alternative routes to improve overall travel experiences.
 
 Libraries used: numpy, pandas, matplotlib, scikit-learn, xgboost and flask.
+
+Sample Output:
+
+![output](https://github.com/user-attachments/assets/a886b22a-6212-4f62-9102-347f925b09ea)
+
